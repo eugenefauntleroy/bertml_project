@@ -36,4 +36,7 @@ This script uses a multi-label classification approach, meaning each text can be
 The trained model's state is saved after each epoch. The path to the saved model should be updated according to your environment.
 
 # Credits
-This script was inspired and is a modified version of a work by Wesley A. Chung. 
+This script was inspired and is a modified version of a work by Wesley A. Chung.
+<img width="629" alt="bertresult2" src="https://github.com/eugenefauntleroy/bertml_project/assets/51951486/99c370e5-a1e2-41bd-8bf1-8ed1d6bdde68">
+<img width="626" alt="bertresult3" src="https://github.com/eugenefauntleroy/bertml_project/assets/51951486/a9f6ccde-e446-4790-a2b7-945b8ce9b40a">
+
