@@ -6,7 +6,7 @@ This Python script is a machine learning model that identifies and categorizes h
 # Requirements
 The script requires the following Python libraries:
 
-# numpy
+## numpy
 # torch
 # transformers
 # atasets
