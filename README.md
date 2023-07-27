@@ -6,13 +6,13 @@ This Python script is a machine learning model that identifies and categorizes h
 # Requirements
 The script requires the following Python libraries:
 
-numpy
-torch
-transformers
-datasets
-matplotlib
-sklearn
-tqdm
+# numpy
+# torch
+# transformers
+# atasets
+# matplotlib
+# sklearn
+# tqdm 
 
 You can install these libraries using pip:
 
