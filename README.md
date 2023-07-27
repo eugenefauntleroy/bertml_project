@@ -1,7 +1,7 @@
 # bertml_project
 
 # Hate Speech Multi-Label Classifier
-This Python script is a machine learning model that identifies and categorizes hate speech in a given text. The categories include race, religion, origin, gender, sexuality, age, and disability. The script uses the DistilBert model for sequence classification from HuggingFace's Transformers library. This script was created by Wesley A. Chung.
+This Python script is a machine learning model that identifies and categorizes hate speech in a given text. The categories include race, religion, origin, gender, sexuality, age, and disability. The script uses the DistilBert model for sequence classification from HuggingFace's Transformers library. Base code for this script was created by Wesley A. Chung.
 
 # Requirements
 The script requires the following Python libraries:
