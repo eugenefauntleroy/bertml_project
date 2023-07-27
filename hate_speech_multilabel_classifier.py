@@ -237,7 +237,7 @@ def train(model, dataloader):
         'model_state_dict': model.state_dict(),
         'optimizer_state_dict': optimizer.state_dict(),
         'loss': loss,
-    }, "/content/drive/MyDrive/Colab Notebooks/desktop_data/my_model.pt")
+    }, "") #<---insert path here 
 
     return {
         'loss': loss,
@@ -290,7 +290,7 @@ import torch
 
 if __name__ == "__main__":
   # Define the path to save your model
-  save_path = "/content/drive/MyDrive/Colab Notebooks/desktop_data/my_model.pt"  # Replace with your actual save path
+  save_path = ""  # <---insert path here
 
   label_dict = {
       'race': 0,
@@ -369,7 +369,7 @@ Old fart.
 
 hate_speech_multilabel_classifier(age_hate_text)
 
-torch.save(model.state_dict(), "/content/drive/MyDrive/Colab Notebooks/desktop_data/my_model.pt")
+torch.save(model.state_dict(), "") #<---insert path here 
 
 
 
