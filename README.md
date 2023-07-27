@@ -35,4 +35,4 @@ This script uses a multi-label classification approach, meaning each text can be
 The trained model's state is saved after each epoch. The path to the saved model should be updated according to your environment.
 
 # Credits
-This script was created by Wesley A. Chung.
+This script is a modified work by Wesley A. Chung. 
