@@ -38,6 +38,18 @@ This script uses a multi-label classification approach, meaning each text can be
 
 The trained model's state is saved after each epoch. The path to the saved model should be updated according to your environment.
 
+# Use Cases:
+
+1. Content Moderation: The model can be used to automatically identify and flag hate speech in user-generated content on social media platforms, online communities, and comment sections of news websites.
+
+2. Research: Researchers studying online behavior, hate speech trends, or the impact of hate speech on various communities could use this tool to analyze large amounts of data.
+
+3. Policy Making: Government agencies or NGOs working on digital policy, online safety, or anti-discrimination laws could use this tool to gather evidence and inform their policy decisions.
+
+4. Training Other Models: The multilabel classifier can be used as a base to train other models for more specific tasks related to hate speech detection.
+
+5. Educational Purposes: It can be used as a teaching tool for students learning about NLP, machine learning, and ethical AI.
+
 # Credits
 This script was inspired and is a modified version of a work by Wesley A. Chung.
 
